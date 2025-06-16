@@ -15,3 +15,14 @@ qqplot(iris$Sepal.Length, iris$Sepal.Width)
 #Just extra data for the second commit
 
 qqplot(iris$Sepal.Length, iris$Petal.Width)
+
+#Just extra
+
+hist(iris$Petal.Width)
+
+hist(iris$Sepal.Length)
+
+#Just extra
+
+summary(iris$Petal.Width)
+
