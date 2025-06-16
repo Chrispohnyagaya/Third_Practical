@@ -26,3 +26,18 @@ hist(iris$Sepal.Length)
 
 summary(iris$Petal.Width)
 
+# Just extra
+
+summary(iris$Sepal.Length)
+
+#Just extra
+
+qqplot(iris$Sepal.Width, iris$Sepal.Length)
+
+
+
+
+
+
+
+
